@@ -1,0 +1,13 @@
+.vscode
+node_modules
+src/vite-env.d.ts
+.eslintrc.json
+.gitignore
+.prettierrc.json
+package.json
+pnpm-lock.yaml
+postcss.config.js
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+.prettierrc.js
