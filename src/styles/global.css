@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500;700&display=swap');
+@import url('./reset.css');
+@import url('./variables/colors.css');
+@import url('./variables/sizing.css');
+
+body {
+    font-family: var(--font-family);
+    background-color: rgb(var(--bg-color));
+}
